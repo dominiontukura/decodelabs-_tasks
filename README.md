@@ -20,7 +20,7 @@ The project demonstrates practical skills in cleaning raw datasets, identifying 
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-- SQL
+- SQLite
 - Microsoft Excel
 
 ---
@@ -33,7 +33,7 @@ data/
     cleaned/
 
 notebooks/
-sql/
+sqlite/
 charts/
 README.md
 requirements.txt
